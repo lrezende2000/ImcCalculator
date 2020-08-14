@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "calculadoraIMC",
-    "slug": "calculadoraIMC",
+    "name": "calcIMC",
+    "slug": "calcIMC",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/balancaIcon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/balancaIcon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/balancaIcon.png"
     }
   }
 }
